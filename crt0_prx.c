@@ -1,18 +1,12 @@
 #define _PSP_FW_VERSION 150
 #include <pspkernel.h>
 #include <pspkerneltypes.h>
-#include <pspmoduleinfo.h>
+#include <pspthreadman_kernel.h>
 #include <pspiofilemgr.h>
 #include <pspmodulemgr.h>
 #include <pspthreadman.h>
-#include <pspwlan.h>
 #include <stdlib.h>
-#include <pspchnnlsv.h>
-#include <pspctrl.h>
 #include <string.h>
-#include <pspctrl_kernel.h>
-#include <pspthreadman_kernel.h>
-#include <pspumd.h>
 #include "crt0_prx.h"
 
 PSP_MODULE_INFO("psnabler", 0x3007, 1, 2);
