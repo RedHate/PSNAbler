@@ -1,1 +1,1 @@
-Behold PSNAbler source code and game patches!
+Behold PSNAbler source code and game patches! (totally useless by todays standards but this was an epic hack to let the users of PSP back onto the PSN network when they kicked us off by trying to validate a version string lolol must like akai... dumb asses)
